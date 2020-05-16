@@ -13,7 +13,7 @@ create your personal blog on your own host
 
 ```
   <data id='gooyaan-config' username='[YOUR_GOOYAAN_USERNAME]' showFollowers color="#ffffff"/>
-  <script src="https://gooyaan.ir/web/main.dart.js" type="application/javascript"></script>
+  <script src="https://gooyaan.ir/web/main.dart.js?version=1.0.0" type="application/javascript"></script>
 ```
 
 5.Replace your username on the gooyaan application with [YOUR_GOOYAAN_USERNAME] in index.html
