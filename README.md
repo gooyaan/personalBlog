@@ -12,7 +12,7 @@ create your personal blog on your own host
 4.Then you make index.html you should put this two tag on the body tag in index.html
 
 ```
-  <data id='gooyaan-config' username='[YOUR_GOOYAAN_USERNAME]' showFollowers color="#ffffff"/>
+  <data id='gooyaan-config' username='[YOUR_GOOYAAN_USERNAME]' api_key="[GOOYAAN_USER_API_KEY]" showFollowers color="#ffffff"/>
   <script src="https://gooyaan.ir/web/main.dart.js?version=1.0.0" type="application/javascript"></script>
 ```
 
